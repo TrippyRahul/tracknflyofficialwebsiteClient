@@ -58,7 +58,7 @@ const Home = () => {
     <>
       <Helmet>
         <title>
-          Trackn Fly - Cheap flights | Book Hotel rooms online | car on rental
+          TracknFly- Cheap flights | Book Hotel online | car on rental
         </title>
         <meta
           name="description"
@@ -66,7 +66,7 @@ const Home = () => {
         />
         <meta
           property="og:title"
-          content="Trackn Fly - Cheap flights | Book Hotel rooms online | car on rental"
+          content="TracknFly- Cheap flights | Book Hotel online | car on rental"
         />
         <meta
           property="og:description"

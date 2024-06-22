@@ -49,9 +49,9 @@ const Contact = () => {
       <div className="contact-us">
         <div className="Container py-[7rem] flex flex-col gap-[7rem]">
           <div className="px-[2rem] md:px-[4rem] flex items-center justify-center flex-col gap-[1rem] ">
-            <h2 className="text-black text-center tracking-wide font-semibold  text-[4rem]">
+            <h1 className="text-black text-center tracking-wide font-semibold  text-[4rem]">
               We are here to help
-            </h2>
+            </h1>
             <p className=" text-[2rem] w-full md:w-[80%] text-center">
               Are you struggling to <a href="/" className="text-blue-500">find flights or hotels?</a> or do you need
               another help regarding the website? we have our most experienced
@@ -64,9 +64,9 @@ const Contact = () => {
           <div className="content flex flex-col lg:flex-row">
             <div className="left  py-[4rem] px-[2rem] md:px-[7rem]">
               <div className="flex flex-col gap-[1rem]">
-                <h3 className=" text-[3rem] font-semibold  tracking-wide ">
+                <h2 className=" text-[3rem] font-semibold  tracking-wide ">
                   Get in touch with us and make your trip more enjoyable
-                </h3>
+                </h2>
 
                 <p className=" text-[2rem]">
                   At TRACKNFLY LLC we're constantly satisfied to get with both

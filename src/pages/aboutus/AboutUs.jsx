@@ -29,11 +29,11 @@ const AboutUs = () => {
 
       <div className="py-[5rem]">
         <div className="py-5 px-[2rem] md:px-0">
-          <div className="text-center text-[2.8rem] md:text-[3rem] lg:text-[4rem] font-semibold text-black">
+          <h1 className="text-center text-[2.8rem] md:text-[3rem] lg:text-[4rem] font-semibold text-black">
             Trackn Fly has evolved as the most unique and wonderful in{" "}
             <br className="md:block hidden" />
             the travel industry
-          </div>
+          </h1>
           <div className="text-black text-[1.5rem] text-center w-full tracking-wide py-5 md:w-[70%] mx-auto">
             Today, we have been solving billions of queries across the world and
             helping large numbers of travelers around the globe to make their

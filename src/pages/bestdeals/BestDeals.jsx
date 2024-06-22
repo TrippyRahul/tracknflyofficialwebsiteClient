@@ -530,7 +530,7 @@ const BestDeals = () => {
         <title>BEST DEALS - Air Tickets | Cars on rentals | Cheap Hotels</title>
         <meta
           name="description"
-          content="Trackn Fly - With just a few clicks you can have the best deals on flights, cars on rentals, and cheap hotels with Trackn Fly. Now plan your trip with us and create memories."
+          content="TracknFly - With just a few clicks you can have the best deals on flights, cars on rentals, and cheap hotels with Trackn Fly. Now plan your trip with us now."
         />
         <meta
           property="og:url"
@@ -544,7 +544,7 @@ const BestDeals = () => {
         <meta property="og:site_name" content="BEST DEALS" />
         <meta
           property="og:description"
-          content="With just a few clicks you can have the best deals on flights, cars on rentals, and cheap hotels with Trackn Fly. Now plan your trip with us and create memories."
+          content="TracknFly - With just a few clicks you can have the best deals on flights, cars on rentals, and cheap hotels with Trackn Fly. Now plan your trip with us now."
         />
         <meta
           property="og:image"
@@ -561,10 +561,10 @@ const BestDeals = () => {
       >
         <div className=" flex flex-row">
           <div className="flex items-start justify-center flex-col md:gap-[4rem]">
-            <div className="text-white pl-4 md:pl-0 font-bold text-[5rem]">
-              Now Plan your trip with<br className="md:hidden block" />
-              us and create memories.
-            </div>
+            <h1 className="text-white pl-4 md:pl-0 font-bold text-[5rem]">
+              With The Best Deals Now<br className="md:hidden block" />
+              You Can Plan Your Trip With Us
+            </h1>
             <Link to={'/contact-us'} className="bg-[#0EB77A] ml-4 md:ml-0 text-white text-[1.6rem] py-[1rem] px-[2.5rem] rounded-[3rem]  hover:scale-90 transition-all">
               Contact us now{" "}
             </Link>
